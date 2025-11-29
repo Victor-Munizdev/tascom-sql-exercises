@@ -8,8 +8,8 @@
 ## 👤 Identificação do(a) aluno(a)
 
 Nome: Victor Muniz  
-Turma: __________________________  
-Data: ____ / ____ / _______
+Turma: Turma Dev TASCOM Academy  
+Data: 29 / 11 / 2025
 
 ## 🧩 PARTE 1 – Revisão da Modelagem
 
@@ -81,7 +81,7 @@ Data: ____ / ____ / _______
 
 ## 📚 Entrega
 
-**Data limite:** ____ / ____ / _______  
+**Data limite:**Próxima aula
 **Forma de entrega:** 💻 via Classroom ou 📄 entrega impressa.  
 **Critérios de avaliação:**
 
