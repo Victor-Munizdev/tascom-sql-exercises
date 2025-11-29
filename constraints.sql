@@ -24,4 +24,7 @@ ALTER TABLE carteira
 ADD CONSTRAINT fk_carteira_paciente FOREIGN KEY (cd_paciente) REFERENCES paciente(cd_paciente);
 
 ALTER TABLE carteira
+-- Chave primária composta para especialidade_medico (Parte 6)
+ALTER TABLE especialidade_medico
+ADD CONSTRAINT pk_especialidade_medico PRIMARY KEY (cd_medico, cd_especialidade);
 ADD CONSTRAINT fk_carteira_plano FOREIGN KEY (cd_plano) REFERENCES plano(cd_plano);
